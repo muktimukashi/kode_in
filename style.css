@@ -4,6 +4,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 30px;
+  text-color: #ffe4c4;
 }
 
 .quiz-container {
